@@ -3,6 +3,8 @@ This repositories contains paper related to ML, DL, Transformes, LLM models, Gen
 
 # How Transformer LLMs Work (DeepLearning.AI)
 
+Course link = https://learn.deeplearning.ai/courses/how-transformer-llms-work/lesson/nfshb/introduction
+
 ![Screenshot 2025-02-21 191850](https://github.com/user-attachments/assets/8932dd3e-1034-4ab9-88fd-bb3ddaa0569e)
 
 ![Screenshot 2025-02-21 192349](https://github.com/user-attachments/assets/bf6f8806-901f-4374-ad4d-4558b4d35a51)
