@@ -1,9 +1,9 @@
-# Research_paper
-This repositories contains paper related to ML, DL, Transformes, LLM models, GenAI etc. 
+## Research_paper
+--> This repositories contains paper related to ML, DL, Transformes, LLM models, GenAI etc. 
 
-# How Transformer LLMs Work (DeepLearning.AI)
+# **How Transformer LLMs Work by (DeepLearning.AI)**
 
-Course link = https://learn.deeplearning.ai/courses/how-transformer-llms-work/lesson/nfshb/introduction
+==> **Course link** = https://learn.deeplearning.ai/courses/how-transformer-llms-work/lesson/nfshb/introduction
 
 ![Screenshot 2025-02-21 191850](https://github.com/user-attachments/assets/8932dd3e-1034-4ab9-88fd-bb3ddaa0569e)
 
@@ -103,4 +103,6 @@ Course link = https://learn.deeplearning.ai/courses/how-transformer-llms-work/le
 
 ![Screenshot 2025-02-21 215805](https://github.com/user-attachments/assets/57e5a120-fdcb-46e9-8985-fe62f75e59eb)
 
+# Now you know the Backbone of NLP & LLM's models 
 
+# CONGRATULATION BRO!!
